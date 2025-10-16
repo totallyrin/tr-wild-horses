@@ -21,7 +21,7 @@ totally-wild-horses` to load the resource.
 
 # Wild Horse Map<br>(pre-configured spawn locations, including base game spawns)
 
-![map](https://github.com/totallyrin/totally_wild_horses/assets/1056415/4df75d09-0424-4e33-91d8-de482c3458c4)
+![map](https://github.com/totallyrin/totally-wild-horses/blob/main/Wild%20Horse%20Map.png?raw=true)
 
 # Notes
 
