@@ -1,4 +1,4 @@
-# Totally Wild Horses
+# tr-wild-horses
 
 RedM script to add custom wild horse spawns for specified horse models. By default, this script adds specific spawn
 locations for all horse breeds/models in the base game.
@@ -15,13 +15,13 @@ locations for all horse breeds/models in the base game.
 # Usage
 
 This script comes pre-configured, and all settings and spawn groups/locations can be changed in `horse_data.lua`.
-Simply download this resource, and place the `totally-wild-horses` folder inside your server's `resources` folder.
+Simply download this resource, and place the `tr-wild-horses` folder inside your server's `resources` folder.
 Tweak any settings you want, and restart the server or use the command `refresh` followed by `ensure
-totally-wild-horses` to load the resource.
+tr-wild-horses` to load the resource.
 
 # Wild Horse Map<br>(pre-configured spawn locations, including base game spawns)
 
-![map](https://github.com/totallyrin/totally-wild-horses/blob/main/Wild%20Horse%20Map.png?raw=true)
+![map](https://github.com/totallyrin/tr-wild-horses/blob/main/Wild%20Horse%20Map.png?raw=true)
 
 # Notes
 
